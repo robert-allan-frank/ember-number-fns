@@ -5,7 +5,7 @@ import { helper } from '@ember/component/helper';
  *
  * @public
  * @function numberIsOdd
- * @param {number} The number to compare.
+ * @param {number} value The number to compare.
  * @returns {boolean} True if number is odd.
  */
 export function numberIsOdd([value]) {
