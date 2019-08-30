@@ -6,6 +6,7 @@ import { helper } from '@ember/component/helper';
  * @public
  * @function numberParseInt
  * @param {string} value The value to parse.
+ * @param {number} base The numeric base.
  * @returns {number} An int value.
  */
 export function numberParseInt([value, base = 10]) {

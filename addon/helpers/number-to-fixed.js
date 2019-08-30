@@ -5,7 +5,7 @@ import { helper } from '@ember/component/helper';
  *
  * @public
  * @function numberToFixed
- * @param {number} The number to fix.
+ * @param {number} number The number to fix.
  * @param {number} decimals The number of decinals.
  * @returns {string} A string formatted value.
  */
