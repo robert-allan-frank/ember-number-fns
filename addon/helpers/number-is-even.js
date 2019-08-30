@@ -5,7 +5,7 @@ import { helper } from '@ember/component/helper';
  *
  * @public
  * @function numberIsEven
- * @param {number} The number to compare.
+ * @param {number} value The number to compare.
  * @returns {boolean} True if number is even.
  */
 export function numberIsEven([value]) {
