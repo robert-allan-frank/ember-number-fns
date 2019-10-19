@@ -1,4 +1,5 @@
 ember-number-fns
+[![Build Status](https://travis-ci.com/robert-allan-frank/ember-number-fns.svg?branch=develop)](https://travis-ci.com/robert-allan-frank/ember-number-fns)
 ==============================================================================
 This addon provides number helpers for Ember templates and components.
 
