@@ -75,6 +75,13 @@ Compatibility
 * Ember CLI v2.13 or above
 * Node.js v8 or above
 
+Related Addons
+------------------------------------------------------------------------------
+* See [ember-array-fns](https://github.com/robert-allan-frank/ember-array-fns) for array based helpers.
+* See [ember-intl-fns](https://github.com/robert-allan-frank/ember-intl-fns) for internationalization based helpers.
+* See [ember-math-fns](https://github.com/robert-allan-frank/ember-math-fns) for math based helpers.
+* See [ember-string-fns](https://github.com/robert-allan-frank/ember-string-fns) for string based helpers.
+
 
 Contributing
 ------------------------------------------------------------------------------
